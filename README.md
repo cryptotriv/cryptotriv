@@ -1,7 +1,7 @@
+![Alt text](./IMG_3624.PNG)
+
 - 👋 Hi, I’m @cryptotriv
-- 👀 I’m interested in dApp development and Smart Contract security research
-- 🌱 I’m currently learning React and Smart Contract security
-- 💞️ I’m looking to collaborate on dApp development and testing
+- 👀 I’m interested in AI and MEV
 - 📫 You can reach me on Twitter at @cryptotriv or via email at cryptotriv@gmail.com
 
 <!---
