@@ -1,4 +1,4 @@
-![Alt text](./IMG_3624.PNG)
+![Alt text](./profile.PNG)
 
 - 👋 Hi, I’m @cryptotriv
 - 👀 I’m interested in AI and MEV
